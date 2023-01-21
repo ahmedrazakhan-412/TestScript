@@ -1,7 +1,5 @@
 package javagrooming;
-
 public class AsciiValue {
-
 	public static void main(String[] args) {
 		for (int i = 65; i <=90; i++) {
 			System.out.println("The ascii value of "+(char)i+" is "+i);

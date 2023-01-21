@@ -6,7 +6,7 @@ public class SeparateAll {
 		String b ="";
 		String c ="";
 		String d ="";
-		String str = "#Pm@e12@#24th";
+		String str = "#m@e12@#24th";
 		for (int i = 0; i<str.length(); i++) {
 			char ch = str.charAt(i);
 			if (Character.isUpperCase(ch)) {
